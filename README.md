@@ -42,6 +42,6 @@ Cada classe possui um método main responsável por executar a lógica do algori
 
 👨‍💻 Autor
 
-Marcos Antonio
-Curso: Análise e Desenvolvimento de Sistemas
+Marcos Antonio  
+Curso: Análise e Desenvolvimento de Sistemas  
 Disciplina: Estrutura de Dados
